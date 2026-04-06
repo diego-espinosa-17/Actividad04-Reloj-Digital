@@ -1,0 +1,36 @@
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe.config
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.pdb
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbprojAssemblyReference.cache
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Form1.resources
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Resources.resources
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.GenerateResource.cache
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.CoreCompileInputs.cache
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.pdb
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbprojAssemblyReference.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.pdb
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe.config
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.pdb
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Form1.resources
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Resources.resources
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.GenerateResource.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-main\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.CoreCompileInputs.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe.config
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.pdb
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\bin\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbprojAssemblyReference.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Form1.resources
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj_Digital.Resources.resources
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.GenerateResource.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.vbproj.CoreCompileInputs.cache
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.exe
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.xml
+C:\DIEGO 24612\Actividad04-Reloj-Digital-Completo\Reloj Digital\Reloj Digital\obj\Debug\Reloj Digital.pdb
