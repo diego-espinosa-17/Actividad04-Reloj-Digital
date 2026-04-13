@@ -140,11 +140,57 @@
     End Sub
 
     'Codigo de temporizador
+
+    Private tiempoRestante As TimeSpan = TimeSpan.Zero
+    Private temporizadorActivo As Boolean = False
     Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PictureBox4.Click
         If Panel3.Visible = True Then
             Panel3.Visible = False
         ElseIf Panel3.Visible = False Then
             Panel3.Visible = True
+        End If
+    End Sub
+    'Boton +1 min
+    Private Sub Button4_Click(sender As Object, e As EventArgs) Handles Button4.Click
+        tiempoRestante = tiempoRestante.Add(TimeSpan.FromMinutes(1))
+        Label5.Text = TiempoRestante.ToString("mm\:ss")
+    End Sub
+    'Boton +5min
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        tiempoRestante = tiempoRestante.Add(TimeSpan.FromMinutes(5))
+        Label5.Text = tiempoRestante.ToString("mm\:ss")
+    End Sub
+
+    Private Sub Button5_Click(sender As Object, e As EventArgs) Handles Button5.Click
+        If tiempoRestante = TimeSpan.Zero Then
+            MessageBox.Show("Agrega tiempo primero.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+            Exit Sub
+        End If
+
+        If temporizadorActivo = False Then
+            Timer4.Enabled = True
+            temporizadorActivo = True
+            Button2.Text = "Stop"
+        Else
+            Timer4.Enabled = False
+            temporizadorActivo = False
+            Button2.Text = "Start"
+        End If
+
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Timer4.Enabled = False
+        tiempoRestante = TimeSpan.Zero
+        temporizadorActivo = False
+        Label5.Text = "00:00"
+        Button2.Text = "Start"
+    End Sub
+
+    Private Sub Timer4_Tick(sender As Object, e As EventArgs) Handles Timer4.Tick
+        If tiempoRestante.TotalMilliseconds > 0 Then
+            tiempoRestante = tiempoRestante.Subtract(TimeSpan.FromMilliseconds(Timer4.Interval))
+            Label5.Text = tiempoRestante.ToString("mm\:ss")
         End If
     End Sub
 End Class
