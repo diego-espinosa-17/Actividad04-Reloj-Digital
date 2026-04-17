@@ -191,6 +191,16 @@
         If tiempoRestante.TotalMilliseconds > 0 Then
             tiempoRestante = tiempoRestante.Subtract(TimeSpan.FromMilliseconds(Timer4.Interval))
             Label5.Text = tiempoRestante.ToString("mm\:ss")
+        Else
+            'tiempo terminado
+            Timer4.Enabled = False
+            temporizadorActivo = False
+            tiempoRestante = TimeSpan.Zero
+            Label5.Text = "00:00"
+            Button5.Text = "Start"
+
+            MessageBox.Show("Tiempo Terminado", "Temporizador", MessageBoxButtons.OK, MessageBoxIcon.Information))
+
         End If
     End Sub
 End Class
